@@ -37,8 +37,6 @@ The project will try to help to understand how the host prices in Boston are dis
     - SciPy
 
 
-[Back To The Top](#read-me-template)
-
 ---
 
 ## How To Use
@@ -59,8 +57,6 @@ To install Basemap run the following code in the Anaconda prompt:
 
 `conda install basemap`
 
-[Back To The Top](#read-me-template)
-
 ---
 
 ## References
@@ -75,7 +71,6 @@ Thank you for your the great insights @Yiting Wang and @Zhaoyun Ma in your great
 Thank you @jcarbaugh for providing this license template. With time and experience I will try to improve the templates
 and give them a touch of myself.
 
-[Back To The Top](#read-me-template)
 
 ---
 
@@ -110,7 +105,6 @@ Other Information:
     * When using or citing the work, you should not imply endorsement
     by the author or the affirmer.
 
-[Back To The Top](#read-me-template)
 
 ---
 
@@ -119,4 +113,3 @@ Other Information:
 - Twitter - [@ArturKasakow](https://twitter.com/arturkasakow)
 - LinkedIn - [Artur Kasakow](https://linkedin.com/in/arturkasakow/)
 
-[Back To The Top](#read-me-template)
