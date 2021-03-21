@@ -25,6 +25,13 @@ on this work.
 
 The project will try to help to understand how the host prices in Boston are distributed. Do you also plan to earn some extra cash? Wanna know what should be taken into consideration when you start hosting accommodations on Airbnb. What features are important for guests so you as a host can recommend a reasonable price and attract more guests. So will we be able to select the right estimators to predict the price? Let’s see what can make YOU a good host.
 
+The files included in the dataset are following:
+
+Udacity Data Science Project.ipynb: A notebook document used for Jupyter Notebook explicitly to review my code and research of this project.
+Boston_Airbnb.7z: Contains three csv files. Unzip the folder to be able to use the csv files, which contain the dataset for the corresonding code.
+
+To see the results of the analysis of this project, check out my article on Medium: https://artur-kasakow.medium.com/this-is-why-airbnb-pricing-in-boston-is-noteworthy-d1a7b70cb330
+
 #### Technologies
 
 - Python
