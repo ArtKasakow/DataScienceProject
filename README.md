@@ -1,7 +1,5 @@
 # Boston Airbnb - Pricing
 
-# ![Project Image](https://unsplash.com/photos/Jx9vpP0TnS8)
-© Sean Sweeney https://unsplash.com/@seansweeney
 ---
 
 ### Table of Contents
@@ -119,6 +117,6 @@ Other Information:
 ## Author Info
 
 - Twitter - [@ArturKasakow](https://twitter.com/arturkasakow)
-- LinkedIn - [Artur Kasakow](https://https://linkedin.com/in/arturkasakow/)
+- LinkedIn - [Artur Kasakow](https://linkedin.com/in/arturkasakow/)
 
 [Back To The Top](#read-me-template)
