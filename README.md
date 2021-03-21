@@ -1,7 +1,7 @@
 # Boston Airbnb - Pricing
 
-# ![Project Image](project-image-url)
-
+# ![Project Image](https://unsplash.com/photos/Jx9vpP0TnS8)
+© Sean Sweeney https://unsplash.com/@seansweeney
 ---
 
 ### Table of Contents
